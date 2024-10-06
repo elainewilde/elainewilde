@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elainewilde
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning full stack Web Developer skills
-- 💞️ I’m looking to collaborate on Web Development projects
+-  I’m interested in Database Management
+- 🌱 I’m currently learning Database Management & Development skills
 - 📫 How to reach me: Email at elaine_wilde@yahoo.com 
 
 <!---
